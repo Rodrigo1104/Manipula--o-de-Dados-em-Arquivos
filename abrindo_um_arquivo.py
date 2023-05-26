@@ -18,3 +18,5 @@ print(path.relpath(arquivo1.name))
 print(path.abspath(arquivo1.name))
 
 print(arquivo1)
+
+print('deu certo...')
